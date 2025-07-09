@@ -1,0 +1,22 @@
+# Arquivos de build e distribuição
+/dist/
+/build/
+/__pycache__/
+*.spec
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Ambiente virtual
+/venv/
+/env/
+
+# Configurações de IDE
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
